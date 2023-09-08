@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: coral;
+    padding: 1px;
+ 
+       
+}
+
+
+ul{
+   
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    padding: 2%;
+    
+}
+
+ul a{
+    color: rgba(39, 34, 34, 0.801);
+    text-decoration: none;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    max-height: 80px;
+    
+ }
+    
